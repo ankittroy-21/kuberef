@@ -153,7 +153,7 @@ See [Issues](https://github.com/hudazaan/kuberef/issues) to get started.
 
 Useful places to update while working on issues:
 
-- Getting started locally : **[Setup Guide](./README.md#-quick-start)** 
+- Getting started locally : **[Setup Guide](https://github.com/hudazaan/kuberef#installation)** 
 - About the Project: **[DOCUMENTATION.md](https://github.com/hudazaan/kuberef/blob/main/DOCUMENTATION.md)**
 - Test Manifests: **[test-manifests/](https://github.com/hudazaan/kuberef/tree/main/test-manifests)**
 
